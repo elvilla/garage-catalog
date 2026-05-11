@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Eames style chair</title>
+  <desc id="desc">A black molded chair with wooden legs.</desc>
+  <rect width="800" height="600" fill="#161615"/>
+  <radialGradient id="warm" cx="50%" cy="44%" r="65%">
+    <stop offset="0" stop-color="#777168"/>
+    <stop offset="1" stop-color="#1b1a19"/>
+  </radialGradient>
+  <rect x="70" y="70" width="660" height="460" rx="18" fill="url(#warm)"/>
+  <path d="M270 160c37-38 226-38 262 0 16 74 5 145-41 206H311c-46-61-57-132-41-206z" fill="#151515"/>
+  <path d="M295 358h210c-12 42-51 70-105 70s-93-28-105-70z" fill="#111"/>
+  <path d="M335 420l-78 102M466 420l78 102M376 422l-16 102M425 422l16 102" stroke="#c98243" stroke-width="18" stroke-linecap="round"/>
+  <path d="M292 452h216" stroke="#111" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="400" cy="533" rx="180" ry="18" fill="#090909" opacity=".55"/>
+</svg>

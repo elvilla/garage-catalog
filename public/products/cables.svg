@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Mystery cable box</title>
+  <desc id="desc">A box full of tangled colorful cables.</desc>
+  <rect width="800" height="600" fill="#090812"/>
+  <rect x="170" y="240" width="460" height="250" rx="18" fill="#171420" stroke="#38f8ff" stroke-width="14"/>
+  <path d="M170 240l70-90h320l70 90" fill="#2a2436" stroke="#ff4ecd" stroke-width="14" stroke-linejoin="round"/>
+  <g fill="none" stroke-linecap="round" stroke-width="14">
+    <path d="M246 320c80-85 170 95 244 5s124 30 66 88" stroke="#fbff2f"/>
+    <path d="M242 407c98-105 136 58 238-25 90-73 119 45 61 73" stroke="#38f8ff"/>
+    <path d="M277 359c45 26 86 21 123-14 60-58 122-42 168 46" stroke="#ff4ecd"/>
+  </g>
+  <rect x="208" y="443" width="384" height="47" fill="#f7f0df" opacity=".14"/>
+  <circle cx="246" cy="321" r="18" fill="#fbff2f"/>
+  <circle cx="556" cy="413" r="18" fill="#fbff2f"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Neon keyboard</title>
+  <desc id="desc">A colorful retro computer keyboard.</desc>
+  <rect width="800" height="600" fill="#090812"/>
+  <path d="M72 178h656l54 244H18z" fill="#171420" stroke="#38f8ff" stroke-width="14"/>
+  <g fill="#f7f0df" stroke="#090812" stroke-width="8">
+    <rect x="108" y="224" width="72" height="48" rx="7"/>
+    <rect x="196" y="224" width="72" height="48" rx="7"/>
+    <rect x="284" y="224" width="72" height="48" rx="7"/>
+    <rect x="372" y="224" width="72" height="48" rx="7"/>
+    <rect x="460" y="224" width="72" height="48" rx="7"/>
+    <rect x="548" y="224" width="72" height="48" rx="7"/>
+    <rect x="636" y="224" width="72" height="48" rx="7"/>
+    <rect x="126" y="294" width="72" height="48" rx="7"/>
+    <rect x="214" y="294" width="72" height="48" rx="7"/>
+    <rect x="302" y="294" width="72" height="48" rx="7"/>
+    <rect x="390" y="294" width="72" height="48" rx="7"/>
+    <rect x="478" y="294" width="72" height="48" rx="7"/>
+    <rect x="566" y="294" width="72" height="48" rx="7"/>
+    <rect x="174" y="364" width="318" height="48" rx="7"/>
+    <rect x="516" y="364" width="110" height="48" rx="7"/>
+  </g>
+  <circle cx="160" cy="145" r="62" fill="#ff4ecd" opacity=".35"/>
+  <circle cx="650" cy="456" r="72" fill="#fbff2f" opacity=".22"/>
+</svg>

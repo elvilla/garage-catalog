@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Playstation 2 Fat</title>
+  <desc id="desc">A retro game console with controller on a neon background.</desc>
+  <rect width="800" height="600" fill="#0a0a16"/>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#161827"/>
+      <stop offset="1" stop-color="#30243b"/>
+    </linearGradient>
+  </defs>
+  <rect x="70" y="78" width="660" height="444" rx="18" fill="url(#bg)"/>
+  <path d="M70 430h660M110 382h580M152 334h496" stroke="#ff38ca" stroke-opacity=".26" stroke-width="3"/>
+  <rect x="315" y="120" width="210" height="330" rx="8" fill="#11131d" stroke="#202537" stroke-width="12"/>
+  <rect x="336" y="148" width="168" height="70" rx="5" fill="#171b28"/>
+  <path d="M348 248h143M348 282h143M348 316h143" stroke="#2f80ff" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="468" cy="398" r="16" fill="#2f80ff"/>
+  <path d="M186 360c34-42 133-42 169 0l24 46c10 19-5 42-27 36l-52-15h-62l-52 15c-22 6-37-17-27-36z" fill="#0d0f18" stroke="#d9d8df" stroke-width="8"/>
+  <circle cx="238" cy="388" r="13" fill="#d9d8df"/>
+  <circle cx="300" cy="388" r="13" fill="#d9d8df"/>
+  <circle cx="323" cy="363" r="8" fill="#ff38ca"/>
+  <circle cx="346" cy="385" r="8" fill="#39f7ff"/>
+</svg>

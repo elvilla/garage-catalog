@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Yashica FX-3 camera</title>
+  <desc id="desc">A vintage analog camera on a dark smoky background.</desc>
+  <rect width="800" height="600" fill="#0b0b12"/>
+  <radialGradient id="glow" cx="50%" cy="45%" r="55%">
+    <stop offset="0" stop-color="#4c4d4b"/>
+    <stop offset="1" stop-color="#111118"/>
+  </radialGradient>
+  <rect x="70" y="70" width="660" height="460" rx="18" fill="url(#glow)"/>
+  <rect x="162" y="245" width="476" height="190" rx="20" fill="#111" stroke="#2e2e2e" stroke-width="12"/>
+  <rect x="214" y="202" width="142" height="58" rx="8" fill="#151515" stroke="#464646" stroke-width="8"/>
+  <path d="M378 192h122l44 55H334z" fill="#151515" stroke="#464646" stroke-width="8"/>
+  <circle cx="408" cy="338" r="100" fill="#070707" stroke="#3a3a3a" stroke-width="16"/>
+  <circle cx="408" cy="338" r="66" fill="#151515" stroke="#111" stroke-width="14"/>
+  <circle cx="408" cy="338" r="32" fill="#050505" stroke="#39f7ff" stroke-opacity=".55" stroke-width="7"/>
+  <rect x="520" y="278" width="76" height="42" rx="7" fill="#222"/>
+  <path d="M190 289h96M190 322h88" stroke="#d9d8df" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="602" cy="220" r="18" fill="#d9d8df"/>
+</svg>

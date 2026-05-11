@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Retro desk lamp</title>
+  <desc id="desc">A retro desk lamp with a bright yellow glow.</desc>
+  <rect width="800" height="600" fill="#090812"/>
+  <circle cx="500" cy="230" r="190" fill="#fbff2f" opacity=".22"/>
+  <path d="M356 395l86-170 74 36-88 170" fill="none" stroke="#38f8ff" stroke-width="22" stroke-linecap="round"/>
+  <path d="M484 180l154 75-58 120-154-75z" fill="#ff4ecd" stroke="#f7f0df" stroke-width="12"/>
+  <path d="M268 472h250" stroke="#fbff2f" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="348" cy="398" r="48" fill="#171420" stroke="#38f8ff" stroke-width="12"/>
+  <circle cx="441" cy="226" r="38" fill="#171420" stroke="#38f8ff" stroke-width="12"/>
+  <path d="M100 505h600" stroke="#ff4ecd" stroke-width="10" stroke-linecap="round"/>
+</svg>

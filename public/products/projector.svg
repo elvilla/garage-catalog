@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Pocket projector</title>
+  <desc id="desc">A small projector throwing a neon beam.</desc>
+  <rect width="800" height="600" fill="#090812"/>
+  <path d="M367 210l378-120v420L367 390z" fill="#fbff2f" opacity=".18"/>
+  <rect x="110" y="235" width="330" height="190" rx="32" fill="#171420" stroke="#38f8ff" stroke-width="14"/>
+  <circle cx="338" cy="330" r="64" fill="#090812" stroke="#ff4ecd" stroke-width="16"/>
+  <circle cx="338" cy="330" r="30" fill="#38f8ff"/>
+  <rect x="150" y="274" width="105" height="32" rx="12" fill="#f7f0df"/>
+  <rect x="150" y="338" width="72" height="32" rx="12" fill="#fbff2f"/>
+  <path d="M183 426l-30 62m228-62l30 62" stroke="#f7f0df" stroke-width="12" stroke-linecap="round"/>
+</svg>

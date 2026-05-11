@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Teclado mecánico Redragon",
+    "price": 35000,
+    "image": "/products/keyboard.svg",
+    "description": "RGB, switches azules. Click clack terapéutico.",
+    "mercadoLibreUrl": "https://www.mercadolibre.com.ar/",
+    "category": "Tecnología",
+    "badge": "Destacado",
+    "accent": "yellow"
+  },
+  {
+    "id": 2,
+    "name": "Playstation 2 Fat",
+    "price": 60000,
+    "image": "/products/console.svg",
+    "description": "Con chip, joystick y memory card. Horas de diversión asegurada.",
+    "mercadoLibreUrl": "https://www.mercadolibre.com.ar/",
+    "category": "Tecnología",
+    "badge": "Última unidad!",
+    "accent": "pink"
+  },
+  {
+    "id": 3,
+    "name": "Cámara Yashica FX-3",
+    "price": 80000,
+    "image": "/products/camera.svg",
+    "description": "Analógica, lente 50mm. Para fotos con onda.",
+    "mercadoLibreUrl": "https://www.mercadolibre.com.ar/",
+    "category": "Retro / Vintage",
+    "badge": "Funcionando!",
+    "accent": "cyan"
+  },
+  {
+    "id": 4,
+    "name": "Silla Eames Style",
+    "price": 45000,
+    "image": "/products/chair.svg",
+    "description": "Cómoda, resistente y fachera. Ideal escritorio / estudio.",
+    "mercadoLibreUrl": "https://www.mercadolibre.com.ar/",
+    "category": "Muebles",
+    "badge": "Excelente estado",
+    "accent": "yellow"
+  },
+  {
+    "id": 5,
+    "name": "Radio Philips D8334",
+    "price": 25000,
+    "image": "/products/radio.svg",
+    "description": "Radio AM/FM, cassettes. Sonido que te transporta.",
+    "mercadoLibreUrl": "https://www.mercadolibre.com.ar/",
+    "category": "Retro / Vintage",
+    "badge": "Clásico",
+    "accent": "pink"
+  },
+  {
+    "id": 6,
+    "name": "Lámpara de lava",
+    "price": 30000,
+    "image": "/products/lava-lamp.svg",
+    "description": "Relajante y psicodélica. Funciona perfecto.",
+    "mercadoLibreUrl": "https://www.mercadolibre.com.ar/",
+    "category": "Hogar",
+    "badge": "Joyita",
+    "accent": "cyan"
+  }
+]

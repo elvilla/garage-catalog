@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Lava lamp</title>
+  <desc id="desc">A glowing pink lava lamp on a blue purple background.</desc>
+  <rect width="800" height="600" fill="#10112c"/>
+  <radialGradient id="lava-bg" cx="55%" cy="55%" r="65%">
+    <stop offset="0" stop-color="#4b2b78"/>
+    <stop offset=".55" stop-color="#1d2455"/>
+    <stop offset="1" stop-color="#10112c"/>
+  </radialGradient>
+  <rect x="70" y="70" width="660" height="460" rx="18" fill="url(#lava-bg)"/>
+  <path d="M354 118h92l66 334H288z" fill="#251142" stroke="#dbd2ff" stroke-width="10"/>
+  <path d="M356 134h88l45 296H311z" fill="#ff38ca" opacity=".82"/>
+  <path d="M366 346c37-34 71-13 94-61 25-53-37-73-68-28-26 39 12 54-26 89z" fill="#ff7fdc" opacity=".95"/>
+  <path d="M383 187c31-22 72 16 48 49-20 27-56 13-48-49z" fill="#ff7fdc"/>
+  <ellipse cx="400" cy="120" rx="74" ry="24" fill="#c8c3d9"/>
+  <path d="M324 452h152l38 62H286z" fill="#c8c3d9" stroke="#7e7890" stroke-width="8"/>
+  <ellipse cx="400" cy="523" rx="164" ry="17" fill="#080916" opacity=".55"/>
+</svg>

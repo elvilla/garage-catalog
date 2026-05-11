@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Turbo mate kit</title>
+  <desc id="desc">A neon illustrated mate cup and thermos.</desc>
+  <rect width="800" height="600" fill="#090812"/>
+  <path d="M0 430h800v170H0z" fill="#171420"/>
+  <circle cx="240" cy="220" r="120" fill="#ff4ecd" opacity=".32"/>
+  <circle cx="560" cy="170" r="95" fill="#38f8ff" opacity=".28"/>
+  <rect x="485" y="145" width="88" height="300" rx="22" fill="#f7f0df" stroke="#38f8ff" stroke-width="12"/>
+  <rect x="502" y="105" width="54" height="58" rx="12" fill="#ff4ecd"/>
+  <path d="M242 310h174l-29 145H271z" fill="#fbff2f" stroke="#38f8ff" stroke-width="12"/>
+  <path d="M266 310c12 37 113 37 126 0" fill="none" stroke="#ff4ecd" stroke-width="16"/>
+  <path d="M355 300l112-156" fill="none" stroke="#f7f0df" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="470" cy="139" r="16" fill="#38f8ff"/>
+  <path d="M169 492h462" stroke="#ff4ecd" stroke-width="10" stroke-linecap="round"/>
+</svg>

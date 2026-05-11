@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Philips D8334 radio</title>
+  <desc id="desc">A large retro cassette radio.</desc>
+  <rect width="800" height="600" fill="#0a0a12"/>
+  <rect x="70" y="80" width="660" height="440" rx="18" fill="#2d2f35"/>
+  <path d="M202 192h396" stroke="#111" stroke-width="22" stroke-linecap="round"/>
+  <rect x="160" y="245" width="480" height="210" rx="10" fill="#17191f" stroke="#595d66" stroke-width="10"/>
+  <circle cx="244" cy="350" r="72" fill="#0d0e12" stroke="#777b82" stroke-width="12"/>
+  <circle cx="556" cy="350" r="72" fill="#0d0e12" stroke="#777b82" stroke-width="12"/>
+  <circle cx="244" cy="350" r="46" fill="none" stroke="#30333b" stroke-width="8"/>
+  <circle cx="556" cy="350" r="46" fill="none" stroke="#30333b" stroke-width="8"/>
+  <rect x="330" y="305" width="140" height="82" rx="6" fill="#0b0c10" stroke="#5b6270" stroke-width="7"/>
+  <path d="M348 333h104M348 361h104" stroke="#39f7ff" stroke-opacity=".45" stroke-width="7"/>
+  <rect x="168" y="160" width="464" height="30" rx="5" fill="#111"/>
+  <path d="M178 474h444" stroke="#0b0c10" stroke-width="16" stroke-linecap="round"/>
+</svg>
